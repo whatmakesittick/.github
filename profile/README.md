@@ -12,8 +12,8 @@ Live at https://whatmakesittick.github.io/
 | --- | --- | --- |
 | Internal combustion engine | Engines | https://whatmakesittick.github.io/engine/ |
 | Helicopter | Aircraft | https://whatmakesittick.github.io/helicopter/ |
-
-Next up: how a sewing machine works.
+| Glider | Aircraft | https://whatmakesittick.github.io/glider/ |
+| Sewing machine | Home | https://whatmakesittick.github.io/sewing-machine/ |
 
 ## How the organisation is laid out
 
